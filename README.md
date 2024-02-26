@@ -34,3 +34,4 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - Twitter: [@binhosemcrause](https://twitter.com/binhosemcrause)
 - LinkedIn: [binhosemcrause](www.linkedin.com/in/binhosemcrause/)
   
+  
