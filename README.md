@@ -18,7 +18,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - Api Gateway (TBD)
 - Dynamo DB
 - GitHub Actions
-- Terraform (TBD)
+- Terraform
 
 ## [Website 🔗](https://silvarr.net)
 
