@@ -15,4 +15,5 @@ def lambda_handler(event, context):
         'id': '0',
         'views':views
     })
-    return views
+    values = {"statusCode": 200, "body": json.dumps(str(views))}
+    return values
