@@ -15,7 +15,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - Route 53
 - Certificate Manager
 - AWS Lambda
-- Api Gateway (TBD)
+- Api Gateway
 - Dynamo DB
 - GitHub Actions
 - Terraform
