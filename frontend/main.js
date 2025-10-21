@@ -23,7 +23,7 @@ function initPageFeatures() {
     })();
 
     if (typeof jQuery !== 'undefined' && typeof jQuery.fn.magnificPopup !== 'undefined') {
-        jQuery('a[href^="#modal-"]').magnificPopup({
+        jQuery('a[href^="#modal-"], a[href^="#blog-modal-"]').magnificPopup({
             type: 'inline',
             midClick: true,
             closeBtnInside: true,
